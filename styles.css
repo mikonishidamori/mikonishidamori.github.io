@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 50;
+}
+
+.main {
+    max-width: 480px;
+    border-radius: 15px;
+    margin: auto;
+}
+
+.message {
+    text-align: center;
+}
